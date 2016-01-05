@@ -2,20 +2,6 @@
 //
 
 #include "stdafx.h"
-
-/*
-*  Project2: Animation of the Solor System
-*  Project2.cpp
-*
-* -------------------------------------------------------------
-*  Student Information
-* -------------------------------------------------------------
-*  Student Name:
-*  Student ID:
-*  E-mail:
-* -------------------------------------------------------------
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
